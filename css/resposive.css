@@ -1,0 +1,15 @@
+@media only screen and (orientation: portrait) {
+  body {
+    height: 100%;
+    overflow: hidden;
+  }
+}
+@media (min-width: 320px) and (max-width: 640px) {
+  .ima {
+    display: none;
+    widows: 12vw;
+  }
+}
+@media only screen and (orientation: portrait) and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+  display: none;
+}

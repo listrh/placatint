@@ -1,0 +1,41 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background-color: #000000;
+  overflow: hidden;
+}
+.ima35 {
+  position: absolute;
+  left: 35vw;
+  width: 40vw;
+  top: 7vw;
+}
+#ima325 {
+  position: relative;
+  left: 4vw;
+  display: none;
+}
+.ima326 {
+  position: absolute;
+  top: 0vw;
+  left: 3vw;
+  display: none;
+}
+.ima328 {
+  position: absolute;
+  top: 0vw;
+  left: 0vw;
+  display: none;
+}
+.ima327 {
+  position: absolute;
+  top: 1vw;
+  left: 1vw;
+  display: none;
+}
+.ima37 {
+  position: absolute;
+  top: 46vw;
+  left: 89.5vw;
+}

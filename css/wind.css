@@ -1,0 +1,28 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background-color: #000000;
+}
+
+#svg1 {
+  position: absolute;
+  top: 0vw;
+  left: 0vw;
+}
+#svg {
+  position: absolute;
+  top: 0vw;
+  left: 0vw;
+}
+#svg2 {
+  position: absolute;
+  top: 0vw;
+  left: 0vw;
+}
+.rect1 {
+  position: absolute;
+  top: 57vw;
+  left: 92vw;
+  opacity: 80%;
+}
